@@ -30,8 +30,6 @@ Read the documents:
 
 View slides online: http://bit.ly/docker-slides
 
-FYI, the `gh-pages` branch stores the slide files, mostly in markdown format.
-
 
 
 ## Course Feedback
